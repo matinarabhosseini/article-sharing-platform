@@ -1,0 +1,13 @@
+ir\ac\ut\ece\ie\webserverproject\dto\CreateArticleRequest.class
+ir\ac\ut\ece\ie\webserverproject\exception\ApiError.class
+ir\ac\ut\ece\ie\webserverproject\exception\InvalidReferenceException.class
+ir\ac\ut\ece\ie\webserverproject\exception\DuplicateArticleTitleException.class
+ir\ac\ut\ece\ie\webserverproject\model\Article.class
+ir\ac\ut\ece\ie\webserverproject\dto\ArticleSummaryResponse.class
+ir\ac\ut\ece\ie\webserverproject\exception\GlobalExceptionHandler.class
+ir\ac\ut\ece\ie\webserverproject\dto\ArticleDetailResponse.class
+ir\ac\ut\ece\ie\webserverproject\controller\ArticleController.class
+ir\ac\ut\ece\ie\webserverproject\repository\ArticleRepository.class
+ir\ac\ut\ece\ie\webserverproject\exception\InvalidSortException.class
+ir\ac\ut\ece\ie\webserverproject\WebserverprojectApplication.class
+ir\ac\ut\ece\ie\webserverproject\exception\ArticleNotFoundException.class
